@@ -3,7 +3,7 @@ As a new Computer Science graduate student, this repository is used to record re
 
   
 2026.9.19  
-Deep Learning from Scratch is a great book for beginner, sorry I only have english version.  
+Deep Learning from Scratch is a great book for beginner, sorry I only have SC version.  
 It is 2nd week after school starts, I almost finish read this book, E-book include. 
 You can find great paper on those web:  
 [Web of Science](https://webofscience.clarivate.cn/wos/woscc/smart-search)&ensp;&ensp;
