@@ -8,4 +8,4 @@ It is 2nd week after school starts, I almost finish read this book.
 You can find great paper on those web:  
 [Web of Science](https://webofscience.clarivate.cn/wos/woscc/smart-search)&ensp;&ensp;
 [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)&ensp;&ensp;
-[CCF](https://www.ccf.org.cn/Academic_Evaluation/rgzn/)
+[CCF](https://www.ccf.org.cn/Academic_Evaluation/AI/)
