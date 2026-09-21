@@ -12,3 +12,14 @@ You can find great paper on those web:
 
 In normal situation, you can search the paper on [google scholar](https://scholar.google.com/)
 
+2026.9.21  
+If your research focuses on brain-inspired intelligence, the work of several scientists in this field is worth following  
+[Dmitri "Mitya" B. Chklovskii](https://scholar.google.com/citations?hl=zh-CN&user=7Bgb5TUAAAAJ)&ensp;&ensp; 
+[Guoqi Li](https://scholar.google.com/citations?hl=zh-CN&user=qCfE--MAAAAJ)
+
+
+
+
+
+
+
